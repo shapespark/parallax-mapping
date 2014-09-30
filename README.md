@@ -1,4 +1,4 @@
-Three.js parallax mapping example [launch it](http://www.shapespark.com/labs/parallax-mapping)
+Three.js parallax mapping example: [run it](http://www.shapespark.com/labs/parallax-mapping)
 
 Parallax shader is authored by Igor Dykhta (with very small modifications) and is described in detail on [Igor's blog](http://sunandblackcat.com/tipFullView.php?topicid=28).
 This version is simplified, it does not use dynamic lighting and self shadowing.
